@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 476336241}
   - component: {fileID: 476336240}
   m_Layer: 0
-  m_Name: Plane (4)
+  m_Name: First Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -223,8 +223,8 @@ Transform:
   m_GameObject: {fileID: 476336239}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 29.7, y: 1.93, z: -0.12}
-  m_LocalScale: {x: 2, y: 1, z: 1}
+  m_LocalPosition: {x: 28.98, y: 4.28, z: -0.12}
+  m_LocalScale: {x: 1.8431607, y: 1.1061, z: 1.8419883}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 502288976}
   - component: {fileID: 502288975}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: Jump 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -348,7 +348,7 @@ GameObject:
   - component: {fileID: 573875856}
   - component: {fileID: 573875855}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: Jump 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -548,7 +548,7 @@ GameObject:
   - component: {fileID: 899585309}
   - component: {fileID: 899585308}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: Jump 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -746,7 +746,7 @@ GameObject:
   - component: {fileID: 1183239651}
   - component: {fileID: 1183239650}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Start Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
